@@ -1,0 +1,50 @@
+#image{
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    display: block;
+    
+}
+#img-div{
+    background-color: white;
+}
+main{
+    text-align: center;
+    background-color: aliceblue;
+}
+#headline {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  #img-caption {
+    margin: 15px 5px 5px 5px;
+  }  
+  #main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+  }
